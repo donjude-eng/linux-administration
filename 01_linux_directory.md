@@ -1,6 +1,9 @@
 # linux-administration
 * Testing and learning Linux administration
 
+# Linux directory structure
+
+
 ## Common Directories in linux
 * /     - "Root" the top of the file system hierarchy
 * /bin  - Binaries and the other executable programs
