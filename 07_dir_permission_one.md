@@ -15,7 +15,7 @@
 3. You can also us id -Gn.
 
 # Secret Decoder Ring
-![Linux Directories](/secretdecoder.PNG?raw=true "Title")
+![Linux Directories](snapshots/secretdecoder.PNG?raw=true "Title")
 
 # Changing permissions
 1. chmod : Change mode command
