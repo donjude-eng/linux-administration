@@ -15,4 +15,28 @@ Testing and learning Linux administration.
 * $cat -- "-dashfile" : Will display the content of -dashfile
 
 
+sort
+
+sort file       //Sort text in file
+sort -r         //Sort in reverse order
+sort -u         //Sort unique (remove duplicate line)
+sort -k F       //Sort by key. F is the field number
+Creating collectoin of files
+
+tar c|x|t f tarfile         // create a list of contents
+tar options
+
+c           Create a tar archive
+x           Extract files from the archive
+t           Display the tabke of contents list
+v           Be verbose
+z           Use compression
+f file      Use this file
+Disk Usage
+
+du          Estimate file usage
+du -k       Displays size in Kilobytes
+du -h       Display sizes in human readable format
+
+
 
