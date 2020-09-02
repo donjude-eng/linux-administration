@@ -4,7 +4,7 @@
 * Use cron to schedule and automate tasks.
 
 # Crontab Format
- ![linux_intermediate](cronjob?raw=true "Title")
+ ![linux_intermediate](cronjob.PNG?raw=true "Title")
 
 # using the crontab command
 * crontab file : Install a new crontab from file
